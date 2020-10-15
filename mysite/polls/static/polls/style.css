@@ -1,0 +1,14 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/background.gif") no-repeat;
+}
+.tittle{
+    color: aqua;
+}
+
+.question{
+    font-size: xx-large;
+}
